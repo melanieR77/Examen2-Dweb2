@@ -1,0 +1,31 @@
+# Node dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Environment variables
+.env
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Editor directories
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+coverage/
+
+# lockfiles (keep if you want) 
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
